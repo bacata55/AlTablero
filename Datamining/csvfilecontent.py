@@ -7,8 +7,8 @@
 
 ######################################################################
 # About: This script was built in order to extract specific content  #
-#         about education. We select key words in order to build a   #
-#         dataset with education as a target.                        #
+#        about education. We selected key words in order to build a  #
+#        education dataset.                                          #
 ######################################################################
 
 # import modules python 3
